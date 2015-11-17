@@ -1,0 +1,93 @@
+Over 6 years of IT experience with WebSphere Application Server System Installation, Configuration, Deployment, Administration and Production Support on heterogeneous systems like AIX, Linux and Windows NT environment with different versions of WebSphere Application Server.
+
+Extensively involved in advanced configuration concepts like Service integration Bus, Web Services, Destinations, Message Activations, Listener ports, Queue Connection Factories, Queues, Application Servers, Clusters, Shared Libraries, Profiles, JDBC providers, Data Sources, URL Providers, urls, JVM Custom Services, Environment Variables, etc.
+
+Excellent experience in handling multiple project teams as well as being responsible for Web Sphere configuration, load balancing, performance tuning, disaster recovery, high availability, problem determination and providing technical support.
+Experience working on PMR with IBM on problem determination, troubleshooting, and resolution – PMRs, running and submitting, gather scripts and log info, turning, trace, verbose-gc, taking thread and heap dump.
+
+Very strong experience in writing Jython, Jacl, ant and shell scripts to automate the Administrative Tasks and maintenance process of the Web Sphere Application Server.
+Good understanding of middleware queuing with Websphere  MQ
+Configured Queue Connections Factories, Queue Definitions, and Listener Ports in order to provide connectivity to Enterprise MQ infrastructure and also worked on Service Integration Bus (SIB) configuration in V7.x
+Experience Setting up Virtual Hosts on the Web server, configuring aliases and re-write rules.
+Involved in Installing Upgrade Fix Packs and Migrating to latest versions.
+Experienced in applying Refresh packs, Fix packs, Cumulative Fix packs for all versions of WebSphere application server and different flavors of Web Servers
+Provided support in a demanding 24/7 on-call support.
+
+Excellent problem resolving interpersonal & communication skills with ability to work under pressure in a highly visible role in a team and individually. Having knowledge to work with offshore team and coordinate with them.
+
+
+TECHNICAL SKILLS:
+Middleware: IBM WebSphere ApplicationServer8.x,7.x/6.x/5.x,WebLogicServer 8.1/9.2/10.0,JBoss4.x/5.x
+Monitoring Tools: Wiley Introscope 7.x, 8.x., Tivoli Performance Viewer, Load Runner, Thread Analyzer, Memory Analyzer Tool.
+
+Web Servers: Apache Tomcat, IBM HTTP Servers, IIS,
+
+Scripting: shell, perl, Jython Script and WSADMIN.
+
+Operating Systems: AIX 5.x, Solaris 9.0/8.x, Red Hat/ Suse 9/Linux 8.0/7.x,Window2003/2000/NT,MS-DOS
+
+
+
+
+
+Responsibilities:
+
+•	Installed and configured IBM Http Server, WebSphere Application Server Network Deployment (ND), 6.0/6.1/7.0
+•	Installed the Refresh Packs and cumulative fixes to WebSphere ND V6.0 environment, for WebSphere, plugins and IHS.
+•	Involved in deploying the applications both from the command line using Wsadmincommands and from the admin console.
+•	Installed and configured WebSphere Portal Server 6.0/6.1
+•	Involved in customizing portal applications and administering users, pages, and portlets.
+•	Created the Clustering Topology in WebSphere Application Server ND V6.x to achieve Work Load Management (WLM), High availability, Load Balancing and Hardware fail over.
+•	Installed, configured and Administered WebSphere Commerce Server 6.0 on Windows and Linux platform.
+•	Configured Web server plug-in to directing dynamic requests to application servers for load balance in clustered environment.
+•	Installed EARs, WARs and configured application specific JVM settings, Web container parameters using the Admin Console and WSADMIN.
+•	Updated EARs for both Portal and Commerce servers.
+•	Involved in Performance tuning such as tuning the web server by specifying the parameters for the maxclient, start servers and maxspareservers. Tuning the Servlet engine and database connection pools. Tuning the Java Virtual Machine (JVM) by specifying the minimum and maximum heap size.
+•	Used Tivoli Performance Viewer to monitor WebSphere Applications and tuned the environment accordingly like changing the JVM Heap, and Connection Pool sizes.
+•	Configured WebSphere resources like JVM heap settings, JDBC providers, JDBC data sources, connection pooling, Virtual Hosts, Global Security and SSL.
+•	Involved with the SSL Certificates missing issues and installed certificates from the backup.
+•	Involved in issues & Stopping/Starting/Restarting Apache HTTP Server using wsadmin account.
+•	Involved in Stopping/Starting & Monitoring the logs for Application Server Instances.
+•	Implemented Horizontal and Vertical Clustering, Performance tuning and trouble shooting of IBM WebSphere Application Server 6.0/6.1.
+•	Installed EARs, WARs and configured application specific JVM settings, Web container parameters using the Admin Console and WSCP/WSadmin scripts.
+•	Migrated existing applications from WebSphere V6.0 to V7.0.
+•	Involved in issues like Application not responding. Application Deployment Errors, Wrong Database host name, Server Hung due to out of memory or thread hanging, Owner ship issue.
+•	Created, updated and reviewed PMRs and worked closely with the IBM PMR team and application teams for the resolution of the issues.
+•	Updated Fixpack for Portal Server 6.0/6.1
+•	Provided 24x7 support forany issues or impact caused by the New Changes.
+Environment: WebSphere Application Server 6.0/6.1/7.0,Webspher Portal Server 6.0/6.1, Websphere Commerce Server 6.0, Apache 2.0.47, IHS 6.0/6.1, Tivoli Access Manager, UML, XML, SQL, IBM AIX 5.3, Windows XP, RedHat Linux AS 3.0, TCP/IP
+
+
+
+Responsibilities:
+•	Installed, configured,administered WebSphere Application Server BASE, ND on AIX for multiple high profile projects.
+•	Created Deployment manager and Application Server profiles and federated to create cells.
+•	Administered, configured, tuned and troubleshoot WebSphere in a clustered environment on AIX
+•	Responsible for deploying enterprise applications from Admin console and enabled security using LTPA and LDAP for admin console and application components on AIX.
+•	Installation & Configuration of IBM HTTP Server 2.x on AIX. Installed, configured and administered IBM WebSphere Application Server 6.1/6.0,7.x on AIX
+•	Involved in configuration and setup of WebSphere Application Server security using LTPA and LDAP. Creating Webserver instances by using Scripts.
+•	Creating Heap dumps and Core dumps and analyze those dumps using Heap Analyzer.
+•	Experience in migrating WAS 6.1 to 7.0. Involved in installing WebSphere portal 6.0.x on UNIX and AIX Platform withWeb Content Management.
+•	Configured IHS Web server, Site minder to work with WAS. Installed, Configured and maintained LDAP Directory server.
+•	Responsible for creation and management of IBM MQ system.
+•	Knowledge in configuring JMS Provides using WebSphere MQ.
+•	Used WebSphere Admin Console and wasadmin/JACL scripting to install enterprise EAR, WAR files or for hot deployment.
+•	Configured WebSphere resources like JDBC providers, JDBC data sources, connection pooling, Implemented creation of Server groups and clusters in WAS.
+•	Provided 24/7 on-call support on rotation basis.
+Environment: Application Server 5.1.x/6.x/7.x,AIX , Red Hat Linux , Solaris, IBM DB2,Windows XP/2000/NT, Apache , Oracle 10.x/9.x/8.x, JBOSS, Tivoli performance viewer, WebSphere Portal 6.0.
+
+
+Web Sphere Administrator
+•	Installed, Configured and Administered IBM HTTP Web Servers, Apache V2.0 and IPlanet web servers.
+•	Responsible for maintenance of the WebSphere Application Servers and Web Servers on different AIX platforms and setting up the development, testing and staging environments for the ongoing application development.
+•	Configured JDBC provider and data source to connect to the DB2 databases for application data.
+•	Configured SSL for communication between Plug-in and Application server.
+•	Implemented horizontal and vertical scaling of WebSphere Application Server (WAS) Advanced Edition in a workload-managed cluster.
+•	Deployment and troubleshooting of JAR, WAR, and EAR files in clustered environment.
+•	Enabled SSL and was responsible for installing the certificates and configuring them in the IBM Http Server
+•	Package, build, Integrate and deploy enterprise J2EE applications on WebSphere 5.0/5.1/ that involves EAR (Enterprise Archives) and WAR (Web Archives).
+•	Configured and setup Secure Sockets Layers (SSL) for data encryption and client authentication.
+•	Installed and configured Embedded JMS server
+•	Installation of Fix Packs, cumulative fixes and interim fixes to overcome the WebSphere application servers problems, based on the recommendation of IBM.
+Environment: WebSphere Application Server 6.0/6.1,Microsoft IIS 5.x, IBM HTTP Web Servers V1.3, Apache V2.0 and IPlanet web servers, Big IP sprayer, Windows NT, 2000/2003, Qpasa 2.x, BMC-Patrol 4.x, Java, JMS, JDBC, XML, SQL, TCP/IP, SOAP, Sybase and MS-Access 2000.
+
